@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 Nʏʀᴀ Mᴜsɪᴄ 」──
+    ──「 Sʜɪᴠ Mᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/4fee25040a0eee43c8418.jpg">
+  <img src="https://telegra.ph/file/abed81c01002d0cc6307c.jpg">
 </p>
 
 <p align="center">
@@ -57,11 +57,11 @@ $ bash start
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Silent_robo_11"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/Galaxia_Update"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/do_dil_ek_jaan143"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
